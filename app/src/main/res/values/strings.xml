@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">ThiGiuaKy</string>
+    <string name="back_btn">Back</string>
+    <string-array name="layout_name_string">
+        <item>bread</item>
+        <item>cherrycheesecake</item>
+        <item>gingerbreadhouse</item>
+        <item>hamburger</item>
+        <item>sunnysideupeggs</item>
+        <item>sunnysideupeggs</item>
+        <item>hamburger</item>
+        <item>gingerbreadhouse</item>
+        <item>cherrycheesecake</item>
+        <item>bread</item>
+    </string-array>
 </resources>

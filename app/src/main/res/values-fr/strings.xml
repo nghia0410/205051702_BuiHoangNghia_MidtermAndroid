@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ThiGiuaKy</string>
+    <string name="back_btn">Dos</string>
+    <string-array name="layout_name_string">
+
+        <item>pain</item>
+        <item>tarteauxcerises</item>
+        <item>maisonenpaind</item>
+        <item>hamburger</item>
+        <item>œufsaulapeige</item>
+        <item>œufsaulapeige</item>
+        <item>hamburger</item>
+        <item>maisonenpaind</item>
+        <item>tarteauxcerises</item>
+        <item>pain</item>
+    </string-array>
+</resources>
